@@ -165,7 +165,6 @@ npm run dev
 ## 🤝 Contributors
 
 * **Aditya Raj Singh Ranawat** – Full Stack Development, AI Integration
-* **ChatGPT (Assistant)** – Architecture, Debugging, Documentation
 
 ---
 

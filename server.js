@@ -1,6 +1,5 @@
 import express from "express";
 import axios from "axios";
-import path from "path";
 import llmApi from "./src/utils/llm.js";
 import cors from "cors";
 
